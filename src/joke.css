@@ -43,6 +43,7 @@
     animation-name: move-up;
     animation-duration: 0.7s;
     animation-timing-function: ease-out;
+    color: blue;
 }
 
 .fa-arrow-down:hover{
